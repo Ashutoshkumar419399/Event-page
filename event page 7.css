@@ -55,13 +55,14 @@
     top: 0.75rem;
     z-index: 1000; }
   .navbar-dropdown .hamburger-icon {
-    content: "";
+   content: "";
     display: inline-block;
     vertical-align: middle;
     width: 16px;
     -webkit-box-shadow: 0 -6px 0 1px #282828,0 0 0 1px #282828,0 6px 0 1px #282828;
     -moz-box-shadow: 0 -6px 0 1px #282828,0 0 0 1px #282828,0 6px 0 1px #282828;
     box-shadow: 0 -6px 0 1px #282828,0 0 0 1px #282828,0 6px 0 1px #282828; }
+                    
 
 .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]::after {
   border-bottom: 0.35em solid transparent;
