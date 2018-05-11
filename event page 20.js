@@ -350,7 +350,7 @@
                                 var file = this.src.split('/').pop();
 
                                 switch (file) {
-                                    case '1.jpg':
+                                    case 'maxresdefault.jpg':
                                         this.src = this.src.replace(file, 'sddefault.jpg');
                                         break;
                                     case 'sddefault.jpg':
